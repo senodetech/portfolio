@@ -1,6 +1,6 @@
-# Senapathy (Sena) — Full Stack Engineer & Solution Architect
+# Senapathy (Sena) — Full Stack Consultant & Solution Architect
 
-> **Building Scalable Digital Solutions • 13+ Years Experience**
+> **Building Scalable Digital Solutions • 16+ Years Experience**
 > *"Code • Build • Solve • Deliver — Better Software, Happier People"*
 
 ---
