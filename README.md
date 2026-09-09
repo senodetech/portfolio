@@ -1,4 +1,4 @@
-# Senapathy (Sena) — Full Stack Consultant & Solution Architect
+# Senapathy (SP) — Full Stack Consultant & Solution Architect
 
 > **Building Scalable Digital Solutions • 16+ Years Experience**
 > *"Code • Build • Solve • Deliver — Better Software, Happier People"*
